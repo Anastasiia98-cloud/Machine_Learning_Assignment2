@@ -1,2 +1,1 @@
-Machine_Learning_Assignment2
 Implementation of a neural network in Python to solve a classification problem on an industrial data set. Aim is to detect defects on pictures of a part of hydraulic pumps, called the submersible pump impeller. This is an one of the applications of machine learning in industry to automate time-consuming manual processes. PyTorch is discovered, work with state-of-the-art pre-trained networks is implemented, and fine tuned for my own task.
